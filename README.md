@@ -4,7 +4,7 @@ Página web de un blog dedicado a consejos y preparaciones de café. Posee una p
 formulario en la sección de contacto.
 Está desarrollada en el front-end únicamente, no tiene respuesta dinámica. 
 
-## Imágenes
+## Screenshots
 
 
 ### Inicio 
